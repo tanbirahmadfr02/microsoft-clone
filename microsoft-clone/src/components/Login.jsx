@@ -40,9 +40,6 @@ setPassStrong("Strong password");
 }else if(!regexPass.test(password)){
     setPassError("please use (rBT4iHgxbvUYMR+) this type of characters");
     }
-
-setEmail('')
-setPassword('')
 }
 
 
