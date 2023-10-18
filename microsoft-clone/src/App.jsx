@@ -1,12 +1,13 @@
-import Login from "./components/Login"
+// import Login from "./components/Login/Login"
+import Registration from "./components/Registration";
 
 function App() {
-
   return (
     <>
-    <Login></Login>
+      <Registration />
+      {/* <Login/> */}
     </>
-  )
+  );
 }
 
-export default App
+export default App;
